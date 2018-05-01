@@ -1,0 +1,7 @@
+import-module ActiveDirectory
+
+while(1) {
+  Write-Host "unlocking justin's account"
+  Unlock-ADAccount -server dc.example.com -Identity first.last
+  start-sleep 60
+}
