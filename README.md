@@ -1,2 +1,2 @@
 # powershell
-Powershell Scripts I've (Unfortunately) Had to Write
+Powershell scripts that I've had to write.
